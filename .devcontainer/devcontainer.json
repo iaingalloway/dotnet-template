@@ -1,0 +1,9 @@
+{
+  "name": "dotnet-template-devcontainer",
+  "image": "ghcr.io/iaingalloway/devcontainers/dotnet:1.2",
+  "runArgs": [
+    "--name",
+    "dotnet-template-devcontainer",
+    "--network=host"
+  ]
+}
