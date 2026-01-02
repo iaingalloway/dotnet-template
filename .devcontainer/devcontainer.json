@@ -1,6 +1,6 @@
 {
   "name": "dotnet-template-devcontainer",
-  "image": "ghcr.io/iaingalloway/devcontainers/dotnet:1.3-dotnet10.0.101",
+  "image": "ghcr.io/iaingalloway/devcontainers/dotnet:1.4-dotnet10.0.101",
   "runArgs": [
     "--name",
     "dotnet-template-devcontainer",
